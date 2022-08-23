@@ -30,7 +30,6 @@ dependencies:
   sqflite:
   flutter_staggered_animations:
   rxdart: ^0.26.0
-  #   هذ  التي تعمل علا طلب البيانات بشكل تجزيئي مهمه جدا
   infinite_scroll_pagination: ^3.1.0
 
 
